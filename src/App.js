@@ -1,5 +1,4 @@
 
-import logo from './logo.svg';
 import './App.css';
 import{Header, AboutUs,Chef, SpecialMenu, Intro, Laurels, Gallery,FindUs, Footer} from './container'
 import {Navbar} from './components'
