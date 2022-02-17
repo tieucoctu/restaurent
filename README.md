@@ -1,7 +1,7 @@
 # Restaurant Page 
 ### [live site](https://restaurant-9bv7oh1x2-tieucoctu.vercel.app/)
 
-!(https://raw.githubusercontent.com/tieucoctu/restaurent/main/app.png)
+! [ Trang Đích Nhà hàng ] (https://raw.githubusercontent.com/tieucoctu/restaurent/main/app.png)
 
 ## Giời Thiệu
 xây dựng trang web trang chủ của nhà hàng với giao diện người dùng
